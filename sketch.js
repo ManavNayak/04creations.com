@@ -198,7 +198,3 @@ function supScreen(){
    }
 
 }
-
-function windowResized() {
-   resizeCanvas(windowWidth, windowHeight);
-}
